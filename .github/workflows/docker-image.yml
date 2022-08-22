@@ -40,6 +40,6 @@ build-and-deploy:
             registry-username: ${{ secrets.REGISTRY_USERNAME }}
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: nodeJS-test-app
-            location: 'norway east'
+            location: 'eu west'
   
   
